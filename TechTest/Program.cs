@@ -1,15 +1,22 @@
-﻿namespace TechTest
+﻿using System;
+using System.Net.Http;
+using System.Threading.Tasks;
+
+namespace TechTest
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string apiUrl = "https://example.com/api/sampleEndpoint";
+            string apiUrl = "https://example.com/api/";
 
             try
             {
                 // Send GET request and validate response
-                string responseData = await GetApiResponse(apiUrl);
+                Task<string> task = GetApiResponse(apiUrl);
+                task.Wait(); // Wait for the asynchronous operation to complete
+
+                string responseData = task.Result; // Get the result
 
                 // Process the response data as needed
                 Console.WriteLine($"Response from the API: {responseData}");
@@ -19,6 +26,7 @@
                 Console.WriteLine($"Error: {ex.Message}");
             }
         }
+
         static async Task<string> GetApiResponse(string apiUrl)
         {
             using (HttpClient client = new HttpClient())
@@ -34,5 +42,4 @@
             }
         }
     }
-   
 }

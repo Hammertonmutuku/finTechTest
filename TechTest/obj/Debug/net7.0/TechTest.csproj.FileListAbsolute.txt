@@ -1,0 +1,14 @@
+C:\Users\v-hmuinde\source\repos\TechTest\TechTest\bin\Debug\net7.0\TechTest.exe
+C:\Users\v-hmuinde\source\repos\TechTest\TechTest\bin\Debug\net7.0\TechTest.deps.json
+C:\Users\v-hmuinde\source\repos\TechTest\TechTest\bin\Debug\net7.0\TechTest.runtimeconfig.json
+C:\Users\v-hmuinde\source\repos\TechTest\TechTest\bin\Debug\net7.0\TechTest.dll
+C:\Users\v-hmuinde\source\repos\TechTest\TechTest\bin\Debug\net7.0\TechTest.pdb
+C:\Users\v-hmuinde\source\repos\TechTest\TechTest\obj\Debug\net7.0\TechTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-hmuinde\source\repos\TechTest\TechTest\obj\Debug\net7.0\TechTest.AssemblyInfoInputs.cache
+C:\Users\v-hmuinde\source\repos\TechTest\TechTest\obj\Debug\net7.0\TechTest.AssemblyInfo.cs
+C:\Users\v-hmuinde\source\repos\TechTest\TechTest\obj\Debug\net7.0\TechTest.csproj.CoreCompileInputs.cache
+C:\Users\v-hmuinde\source\repos\TechTest\TechTest\obj\Debug\net7.0\TechTest.dll
+C:\Users\v-hmuinde\source\repos\TechTest\TechTest\obj\Debug\net7.0\refint\TechTest.dll
+C:\Users\v-hmuinde\source\repos\TechTest\TechTest\obj\Debug\net7.0\TechTest.pdb
+C:\Users\v-hmuinde\source\repos\TechTest\TechTest\obj\Debug\net7.0\TechTest.genruntimeconfig.cache
+C:\Users\v-hmuinde\source\repos\TechTest\TechTest\obj\Debug\net7.0\ref\TechTest.dll
